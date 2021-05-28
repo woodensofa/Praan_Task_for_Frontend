@@ -6,7 +6,7 @@ const data = {
   datasets: [
     {
       label: "# of Red Votes",
-      data: [12, 19, 3, 5, 2, 3],
+      data: [2, 9, 3, 5, 2, 3],
       backgroundColor: "rgb(255, 99, 132)"
     },
     {
