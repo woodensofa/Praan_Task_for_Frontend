@@ -1,2 +1,3 @@
 # Praan_Task_for_Frontend
-Created with CodeSandbox
+
+Platform used: CodeSandbox, an online react IDE.
